@@ -11,7 +11,7 @@ https://youtu.be/teaNKLb6l4Q
 
 Simple tutorial how you can add Text recognition ability to your android app using Google Mobile Vision library. 
 learn this integration from one good medium article and follow that article step by step you can read that article here :</br>
-https://medium.com/teachmind/detect-t...
+https://medium.com/teachmind/detect-text-from-image-in-android-with-google-mobile-vision-api-112a527e556d
 </br>
 or you can follow along this video and you will have working text recognition with mobile vision library of google
 </br></br>
